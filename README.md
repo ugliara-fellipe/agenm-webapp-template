@@ -53,3 +53,17 @@ npm start
 ```
 
 # frontend
+
+```
+$ sudo npm install -g @angular/cli
+
+$ ng new frontend
+? Would you like to add Angular routing? Yes
+? Which stylesheet format would you like to use? SCSS
+
+$ ng add apollo-angular
+? Url to your GraphQL endpoint http://localhost:8080/graphql
+
+$ ng serve
+```
+
